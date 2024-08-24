@@ -20,7 +20,7 @@ jobs:
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
 
-    - name: Add dnsmasq remote and fetch all branches and tags
+    - name: Add gnu-bash remote and fetch all branches and tags
       run: |
         git remote add gnu-bash https://git.savannah.gnu.org/git/bash.git
         git fetch gnu-bash --tags

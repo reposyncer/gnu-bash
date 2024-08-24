@@ -1,4 +1,4 @@
-# gnubash
+# gnu-bash
 Weekly synced mirror of GNU Bash.
 
 > [!IMPORTANT]\
